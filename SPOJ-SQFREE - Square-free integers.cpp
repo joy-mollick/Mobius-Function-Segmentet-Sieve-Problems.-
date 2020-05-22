@@ -1,4 +1,4 @@
-/// Memory Limit is so strict !!! so I removed all my important comments line per every important operation lost flexibility of my code
+/// Source Limit is so strict !!! so I removed all my important comments line per every important operation lost flexibility of my code
 /// Time-0.450s 
 #include<iostream>
 #include <cstdio>
